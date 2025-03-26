@@ -1,6 +1,8 @@
 # Discord Bot - Funções de Gerenciamento e Automação
 Este bot do Discord oferece funcionalidades automatizadas para gerenciar servidores e realizar tarefas como limpar mensagens, fazer farm de horas em calls, sair de servidores automaticamente, entre outros. O bot é baseado em diferentes módulos, cada um responsável por uma função específica, acessada através de um menu interativo (select).
 Funcionalidades
+# comando /painel 
+você deve ser o dono do servidor para usar o comando
 
 O bot contém os seguintes módulos:
 cl.py
